@@ -1,5 +1,5 @@
 ## Problems
-hello
+
 ## Code implementation (5 points)
 Pass test cases by implementing the functions in the `code` directory.
 
