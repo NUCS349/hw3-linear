@@ -1,4 +1,4 @@
-from code import generate_regression_data
+from src import generate_regression_data
 
 def test_generate_regression_data():
     degrees = range(10)
