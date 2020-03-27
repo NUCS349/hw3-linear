@@ -1,4 +1,4 @@
-# HW2: Linear regression and classification - CS 349 @ NU
+# HW3: Linear regression and classification - CS 349 @ NU
 **IMPORTANT: PUT YOUR NETID IN THE FILE** `netid` in the root directory of the assignment. 
 This is used to put the autograder output into Canvas. Please don't put someone else's netid 
 here, we will check.
@@ -12,7 +12,7 @@ In this assignment, you will:
 
 To clone this repository run the following command:
 
-``git clone https://github.com/nucs349/win2020-hw2-linear-[your_username]``
+``git clone https://github.com/nucs349/spr2020-hw2-linear-[your_username]``
 
 `[your_username]` is replaced in the above link by your Github username. Alternatively, just look at the link in your address bar if you're viewing this README in your submission repository in a browser. Once cloned, `cd` into the cloned repository. Every assignment has some files that you edit to complete it. 
 
