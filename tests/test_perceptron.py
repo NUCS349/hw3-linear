@@ -1,5 +1,5 @@
 import numpy as np 
-from code import Perceptron, load_json_data, transform_data
+from src import Perceptron, load_json_data, transform_data
 
 def test_perceptron():
     features, targets = load_json_data('data/parallel_lines.json')

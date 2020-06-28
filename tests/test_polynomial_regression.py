@@ -1,5 +1,5 @@
 import numpy as np
-from code import generate_regression_data, PolynomialRegression, mean_squared_error
+from src import generate_regression_data, PolynomialRegression, mean_squared_error
 
 def test_polynomial_regression():
     degrees = range(10)
