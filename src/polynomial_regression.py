@@ -46,6 +46,10 @@ class PolynomialRegression():
             new_data = np.random.random(100) + 10
             predicted = learner.predict(new_data)
 
+            # confidence compares the given data with the training data
+            confidence = learner.confidence(new_data)
+
+
         Args:
             degree (int): Degree of polynomial used to fit the data.
         """

@@ -29,18 +29,7 @@ class Perceptron():
         classifier. The idea is to draw a linear line in the space that separates
         the points in the space into two partitions. Points on one side of the 
         line are one class and points on the other side are the other class.
-       
-        begin initialize weights
-            while not converged or not exceeded max_iterations
-                for each example in features
-                    if example is misclassified using weights
-                    then weights = weights + example * label_for_example
-            return weights
-        end
-        
-        Note that label_for_example is either -1 or 1.
 
-        Use only numpy to implement this algorithm. 
 
         Args:
             max_iterations (int): the perceptron learning algorithm stops after 
@@ -57,6 +46,18 @@ class Perceptron():
         convergence (dividing line does not change between interations) or after
         max_iterations (defaults to 200) iterations are done. Here is pseudocode for 
         the perceptron learning algorithm:
+
+        begin initialize weights
+            while not converged or not exceeded max_iterations
+                for each example in features
+                    if example is misclassified using weights
+                    then weights = weights + example * label_for_example
+            return weights
+        end
+        
+        Note that label_for_example is either -1 or 1.
+
+        Use only numpy to implement this algorithm. 
 
         Args:
             features (np.ndarray): 2D array containing inputs.
