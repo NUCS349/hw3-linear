@@ -30,6 +30,7 @@ class Perceptron():
         the points in the space into two partitions. Points on one side of the 
         line are one class and points on the other side are the other class.
 
+
         Args:
             max_iterations (int): the perceptron learning algorithm stops after 
             this many iterations if it has not converged.
@@ -58,7 +59,6 @@ class Perceptron():
 
         Use only numpy to implement this algorithm. 
 
-		
         Args:
             features (np.ndarray): 2D array containing inputs.
             targets (np.ndarray): 1D array containing binary targets.
