@@ -29,6 +29,9 @@ def generate_regression_data(degree, N, amount_of_noise=1.0):
         
         y_noise = y + np.random.normal(loc=0.0, scale=1.5*2.0, size=y.shape)
 
+    For Polyynomial regression, the N dimension array for x doesn't need multiple attributes because we are
+    working with polynomial regression.
+
     Args:
         degree (int): degree of polynomial that relates the output x and y
         N (int): number of points to generate

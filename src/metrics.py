@@ -11,5 +11,13 @@ def mean_squared_error(estimates, targets):
     Implement this formula here, using numpy and return the computed MSE
 
     https://en.wikipedia.org/wiki/Mean_squared_error
+
+    Args:
+        estimates(np.ndarray): the estimated values (should be the same shape as targets)
+        targets(np.ndarray): the ground truth values
+
+    Returns:
+        MSE(int): mean squared error calculated by above equation 
     """
+
     raise NotImplementedError()
