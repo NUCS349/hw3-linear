@@ -6,7 +6,6 @@ here, we will check.
 
 In this assignment, you will:
 - Implement a polynomial regression model
-- Investigate the performance of perceptrons on different datasets
 
 ## Clone this repository
 
