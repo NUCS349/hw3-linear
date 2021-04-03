@@ -1,13 +1,13 @@
 ## Problems
 
 
-## Code implementation (6 points)
+## Code implementation (5 points)
 Pass test cases by implementing the functions in the `src` directory.
 
 Your grade for this section is defined by the autograder. If it says you got an 80/100,
 you get 4.8 points here.
 
-## Free response questions (4 points)
+## Free response questions (5 points)
 
 Answer the following free response questions in a separate document, 
 saved as a .pdf and **uploaded to Canvas**.
