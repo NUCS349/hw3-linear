@@ -1,14 +1,10 @@
-# HW3: Linear regression and classification - CS 349 @ NU
+# HW 4: Linear Regression and Classification - CS 349 @ NU
 
 **IMPORTANT: PUT YOUR NETID IN THE FILE** `netid` in the root directory of the assignment.
 This is used to put the autograder output into Canvas. Please don't put someone else's netid
 here, we will check.
 
-In this assignment, you will:
-
-- Implement linear and polynomial regression models
-- Implement perceptron
-- Investigate the performance of perceptrons on different datasets
+In this assignment, you will implement Linear and Polynomial Regression models
 
 ## Clone this repository
 
@@ -37,7 +33,3 @@ The test cases can be run with:
 `python -m pytest`
 
 at the root directory of the assignment repository.
-
-## Questions? Problems? Issues?
-
-Simply open an issue on the starter code repository for this assignment [here](https://github.com/NUCS349/hw2-linear-regression/issues). Someone from the teaching staff will get back to you through there!
