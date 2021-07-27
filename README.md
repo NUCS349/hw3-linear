@@ -1,4 +1,4 @@
-# HW 4: Linear Regression and Classification - CS 349 @ NU
+# HW 4: Linear Regression - CS 349 @ NU
 
 **IMPORTANT: PUT YOUR NETID IN THE FILE** `netid` in the root directory of the assignment.
 This is used to put the autograder output into Canvas. Please don't put someone else's netid
