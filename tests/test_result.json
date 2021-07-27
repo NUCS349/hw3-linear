@@ -4,6 +4,5 @@
   "test_polynomial_regression": false,
   "test_generate_regression_data": false,
   "test_a_imports": true,
-  "test_transform_data": false,
   "test_netid": false
 }
